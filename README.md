@@ -17,5 +17,5 @@ Install and setup mysql locally. Run "npm i" in the repo directory. Modify .env 
 
 Run "node index" in the repo directory. Follow text prompts.
 
-Youtube usage video: 
+Youtube usage video: https://youtu.be/cRd3dLhP3bw
 
